@@ -28,7 +28,7 @@ LFInc.py is a Python script designed to scan a target URL for Local File Inclusi
 
 After detecting a vulnerable URL and selecting the reverse shell option, initiate the reverse shell in another terminal with the desired host and port using the following command:
 
-nc -l -p <PORT> -vv
+nc -l -p (PORT) -vv
 
 
 ## Disclaimer
